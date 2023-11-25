@@ -1,0 +1,13 @@
+package digis.DrSecurity;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DrSecurityApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DrSecurityApplication.class, args);
+	}
+
+}
